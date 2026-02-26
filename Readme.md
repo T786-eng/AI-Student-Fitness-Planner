@@ -18,8 +18,8 @@ This AI-powered planner uses a recommendation engine to generate **practical, bu
 ---
 
 ## 🚀 Live Demo
-Once deployed, you can view the live application here:  
-👉 **[Insert Your Streamlit Cloud URL Here]**
+You can view the live application here:  
+👉 **[Click Here to Open the App](https://ai-student-fitness-plannergit-wpobtuqgqgjcdhzyrjmm2q.streamlit.app/)**
 
 ---
 
