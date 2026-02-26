@@ -1,0 +1,12 @@
+Type,Name,Goal,Budget,Constraint
+Diet,Oats & Banana,Weight Loss,Low,Vegetarian
+Diet,Eggs & Toast,Muscle Gain,Low,Non-Vegetarian
+Diet,Dal Chawal & Salad,Maintenance,Low,Vegetarian
+Diet,Chicken & Rice,Muscle Gain,Medium,Non-Vegetarian
+Diet,Paneer Stir-fry,Muscle Gain,Medium,Vegetarian
+Diet,Peanut Butter Toast,Weight Loss,Low,Vegetarian
+Workout,Bodyweight Squats,Muscle Gain,Low,No Equipment
+Workout,Brisk Walking,Weight Loss,Low,No Equipment
+Workout,Push-ups & Dips,Muscle Gain,Low,Home
+Workout,Running,Weight Loss,Low,Outdoor
+Workout,Dumbbell Press,Muscle Gain,Medium,Gym Required
